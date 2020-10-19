@@ -24,7 +24,7 @@
                     <div id = "main">
                         <h2>Her ser du når pinsen faller i 2021:</h2>
                         
-                        <img src="pinse.jpg" width="1007">
+                        <img src="https://media.snl.no/media/69617/article_topimage_pinse_topp_4.jpg" width="1007">
 
                         <p>Pinse er en kristen høytid. Den feires alltid den femtiende dagen etter 1. påskedag, eller på den 7. søndagen etter påske.</p>
                         
