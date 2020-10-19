@@ -32,7 +32,7 @@
                         <p>Den kristne påsken feires første søndag etter første fullmåne etter vårjevndøgn.</p>
                        
                     
-                        <img src="påske.png" width="748" height="350">
+                        <img src="https://www.santamariaworld.com/optimized/hero-xlarge/globalassets/sweden/header.png" width="748" height="350">
                   
                         
                         
