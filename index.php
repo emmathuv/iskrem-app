@@ -9,7 +9,7 @@
     <body>
         <div id = "container">
             <div id = "header">
-                <h1>Norsk Kalender 2021</h1>
+                <h1>Kalender 2021</h1>
             </div>
             <div id = "content">
                 <div id = "nav">
