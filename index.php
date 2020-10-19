@@ -16,9 +16,9 @@
                     <h3>Naviger</h3>
                     <ul>
                         <li><a class = "selected" href = "">Hjem</a></li>
-                        <li><a href="page2.html">Påske</a></li>
-                        <li><a href="page3.html">Pinse</a></li>
-                        <li><a href="page4.html">Helligdager</a></li>
+                        <li><a href="page2.php">Påske</a></li>
+                        <li><a href="page3.php">Pinse</a></li>
+                        <li><a href="page4.php">Helligdager</a></li>
                     </ul>
                 </div>
 
