@@ -1,0 +1,68 @@
+body {
+    background: white;
+    font-family: helvetica, arial, sans-serif;
+}
+
+
+#container{
+    background-color: white;
+    width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#header{
+    background-color:#799;
+    color: white;
+    text-align: center;
+    padding: 5px;
+}
+h1{
+    margin: 0;
+}
+
+#content {
+    padding: 10px;
+    
+}
+a {
+    text-decoration: none;
+    color: rgb(37, 4, 97)
+}
+
+#nav {
+    width: 180px;
+    float: left;
+    
+}
+#nav ul{
+    list-style-type: none;
+    padding: 0;
+}
+
+#nav .selected {
+    font-weight: bold;
+}
+
+
+#main{
+    width: 800px;
+    float: left;
+}
+
+#Calendar{
+    text-align: center;
+}
+
+    
+#footer{
+    clear: both;
+    padding: 0px;
+    width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #999;
+    color: white;
+    text-align: right;
+}
+
